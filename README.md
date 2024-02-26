@@ -1,6 +1,6 @@
 # LP2DPBO2024C2
 
-/* Saya Talitha Fayarina Adhigunawan mengerjakan LP2 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin. */
+/* Saya Talitha Fayarina Adhigunawan [2201271] mengerjakan LP2 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin. */
 
 Pada latihan 2 praktikum DPBO ini diminta untuk membuat program berbasis OOP menggunakan bahasa pemrograman C++, Java, Python, dan PHP yang mengimplementasikan konsep Multi-level Inheritance. Kelas-kelas yang diminta yaitu:
 Product: idProduct, name, brand, price
